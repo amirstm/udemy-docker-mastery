@@ -2,6 +2,7 @@
 
 FROM nginx:latest
 # highly recommend you always pin versions for anything beyond dev/learn
+# from amir
 
 WORKDIR /usr/share/nginx/html
 # change working directory to root of nginx webhost
